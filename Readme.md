@@ -1,4 +1,4 @@
-> index.js contains the Lambda function which performs the entire business logic for the
+> {index.js} contains the Lambda function which performs the entire business logic for the
 Aladdin skill. It uses text input given to it by the Alexa engine after speech to text
 conversion
 
