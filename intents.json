@@ -1,0 +1,29 @@
+{
+	  "intents": [
+	    {
+	      "intent": "StockIntent",
+	      "slots": [
+	        {
+	          "name": "stock",
+	          "type": "LIST_OF_STOCKS"
+	        }
+	      ]
+	    },
+        {
+	      "intent": "PortfolioIntent",
+	      "slots": [
+	        {
+	          "name": "yearMonthDay",
+	          "type": "YEAR_MONTH_DAY"
+	        }
+	      ]
+	    },
+        {
+	      "intent": "TopFundIntent"
+	    },
+	    
+	    {
+	      "intent": "AMAZON.HelpIntent"
+	    }  
+	  ]
+	}

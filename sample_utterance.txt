@@ -1,0 +1,11 @@
+StockIntent how did {stock} perform
+StockIntent how did {stock} stock perform
+StockIntent how did {stock} perform today
+StockIntent get me the quote for {stock}
+TopFundIntent what is the top fund for today
+TopFundIntent get me the top fund for today
+TopFundIntent which is the top fund for today
+TopFundIntent which fund performed the best today
+TopFundIntent which is the best fund for today
+TopFundIntent which is the best fund
+PortfolioIntent how did my portfolio perform over the {yearMonthDay}
